@@ -1,0 +1,21 @@
+# Virtual Environment
+myenv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+similarity.pkl
+movie_list.pkl
