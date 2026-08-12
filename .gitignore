@@ -18,3 +18,6 @@ __pycache__/
 Thumbs.db
 
 movie_list.pkl
+
+# Streamlit Secrets
+secrets.toml

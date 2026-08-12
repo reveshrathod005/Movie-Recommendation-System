@@ -18,7 +18,7 @@ st.set_page_config(
 # FETCH MOVIE POSTER FROM OMDb 
 
 def fetch_poster(movie_title):
-    api_key = "c12abfa1"
+    api_key = st.secrets["OMDB_API_KEY"]
 
     url = "https://www.omdbapi.com/?apikey={}&t={}".format(
         api_key,
