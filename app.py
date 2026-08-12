@@ -92,7 +92,7 @@ with st.sidebar:
 # HERO SECTION
 
 st.title("🎬 Movie Recommendation System")
-st.subheader("Discover your next favorite movie using Machine Learning and Content-Based Recommendation.")
+st.subheader("Discover your next favorite movie using Machine Learning and Content-Based Filtering.")
 st.divider()
 
 
