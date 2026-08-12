@@ -17,7 +17,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-movie_list.pkl
+
 
 # Streamlit Secrets
 secrets.toml
